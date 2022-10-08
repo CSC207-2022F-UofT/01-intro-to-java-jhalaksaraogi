@@ -98,7 +98,7 @@ public class Basics {
          * Current count: 1
          * Current count: 0
          */
-        for (int n = 10; n >= 1; n--) {
+        for (int n = 10; n >= 0; n--) {
             System.out.println("Current count: " + n);
         }
 
